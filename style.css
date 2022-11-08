@@ -36,6 +36,7 @@ body{
     } 
 
     button{
+        display: flex;
         height: 40px;
         width: fit-content;
         border-radius:10px;
